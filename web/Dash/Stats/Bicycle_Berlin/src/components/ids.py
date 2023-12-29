@@ -1,0 +1,7 @@
+BEZ="1"
+BUTTON="2"
+BAR="Balkendiagramm"
+DROPGENDER="4"
+BUTGENDER="5"
+PIE_CHART="wtfkilltmich"
+SLIDER="SLIDER"
