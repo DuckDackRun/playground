@@ -4,7 +4,7 @@ Here do you find:
 
 ### data structures
 ### games
-### something for webdev 
+### something to webdev 
 ### and more 
 
 :)
