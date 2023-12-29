@@ -1,4 +1,10 @@
-hi
+# Welcome to the repo!
 
->test
-# import funktioniert nicht
+Here do you find:
+
+-data structures
+-games
+-something for webdev 
+-and more 
+
+:)
