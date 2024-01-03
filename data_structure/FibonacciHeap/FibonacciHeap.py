@@ -1,5 +1,6 @@
-#abstract https://tmc.web.engr.illinois.edu/heap_ianfest.pdf
-
+#TODO md file erstellen abstract https://tmc.web.engr.illinois.edu/heap_ianfest.pdf
+# - fiboheaps sind theoretisch gut, praktisch zu kompliziert (Hilfsarbeit) und werden von einfacheren heaps outperformt
+# TODO mit Implementierung auseinandersetzen
 
 class FibonacciHeap:
     #interne nodeklasse

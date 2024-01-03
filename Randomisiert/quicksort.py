@@ -1,6 +1,9 @@
 import random
 import time 
 
+# Vater ist der liebe Hoare
+# genauso optimal ist quickselect mit O(n)
+
 def swap(li,a,b):
   li[a],li[b]=li[b],li[a]
 
@@ -87,11 +90,6 @@ def testinsert():
     stat={j:sum([quick(gen(anzahl),j)[0] for _ in range(anzahl)])/anzahl for j in range(1,15)}
     print(stat)
     stat={j:sum([quick(gen(anzahl),j)[1] for _ in range(anzahl)])/anzahl for j in range(1,15)} #zeitmessung, bin doof - sind zwei verschiedene versuche
-
-
-
-
-
 
     print(stat) # stat sagt b:vergleiche im durchschnitt, 3 sieht vielversprechend aus
     print("")
